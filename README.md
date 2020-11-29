@@ -1,3 +1,3 @@
-# filmptz.rana_frontier
+# rana_frontier
 
 Java semester-project 
