@@ -1,0 +1,6 @@
+Wesley : I have not seen you.
+Who are you? Are you human?
+
+/เปลี่ยนdialog2(text2)
+So..Your name is a Aden, right?
+My name's Wesley.
